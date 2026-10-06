@@ -127,8 +127,11 @@ The simulation-based approach helps examine FSM operation, traffic signal sequen
 ## 👩‍💻 Author
 
 **Vijaya Lakshmi**
+
 Electronics and VLSI Technology
+
 SRK Institute of Technology
+
 Interested in Digital Design and Design Verification
 
 ## ⭐ Conclusion
